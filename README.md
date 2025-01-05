@@ -1,5 +1,4 @@
-# High-performance-graph-data-analysis
-Several high-performance graph data analysis experiments
+# Высокопроизводительный анализ графов
 
 ##  1. Реализация подсчёта треугольников несколькими алгоритмами (наивный, наивный с маской, Cohen's, Sandia) с помощью `python-graphblas`
 
